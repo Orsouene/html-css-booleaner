@@ -1,0 +1,12 @@
+*{padding: 0;
+   margin: 0;}
+
+   .container{height: 80px;
+              width: 100%;
+            background-color: rgb(92, 156, 230);
+            background-image: url(./img/pattern.png);
+           background-size:contain;}
+          
+    .logo{height: 30px; 
+         padding-top: 5%;
+          padding-left: 10px;}

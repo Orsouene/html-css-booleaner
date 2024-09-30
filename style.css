@@ -1,6 +1,6 @@
 *{padding: 0;
    margin: 0;}
-
+/*ADD HEADER*/
    .container{height: 80px;
               width: 100%;
             background-color: rgb(92, 156, 230);
@@ -8,5 +8,45 @@
            background-size:contain;}
           
     .logo{height: 30px; 
-         padding-top: 5%;
+         padding-top: 50px;
           padding-left: 10px;}
+  /*ADD main*/
+        main{margin-left: 10px;}          
+        
+        .credit{color: rgb(179, 177, 177);}
+  
+       .booleaner{color: aqua;}
+
+         h1 {font-family: "Roboto", sans-serif;
+        font-weight: 500px;
+        font-style: bold;
+        padding-top: 20px;} 
+       .
+        .tim {height: 300px;}
+       
+        .small{font-size: small;}
+
+        .Lorem{background-color: yellow;
+         }
+        
+        #parag{padding-top: 10px;
+            font-size: medium;}
+
+        .list{ padding-top: 20px;
+            }
+      
+        .box{padding-top: 20px;
+               }
+            
+          .chiaro{background-color: rgb(126, 250, 250); 
+                  padding: 10px;
+                }
+            
+            .blue{background-color: rgb(108, 157, 247);
+                padding: 10px;}
+            .white{ padding: 10px;}
+            .first{display: inline;}
+            .second{display: inline;
+                margin-left: 25%;}
+            .last {display: inline;
+                margin-left: 25%; }

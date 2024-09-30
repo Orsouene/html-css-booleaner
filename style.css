@@ -1,3 +1,6 @@
+.all{width: 90%;
+    margin-left: 10px;
+    margin-right: 50px;}
 *{padding: 0;
    margin: 0;}
 /*ADD HEADER*/
@@ -9,7 +12,7 @@
           
     .logo{height: 30px; 
          padding-top: 50px;
-          padding-left: 10px;}
+          padding-left: 20px;}
   /*ADD main*/
 /*ADD SECTION1*/    
   main{margin-left: 10px;
@@ -35,7 +38,7 @@
             font-size: medium;}
 
         .list{ padding-top: 20px;
-            }
+            margin-left: 10px; }
  /*ADD SECTION3*/
         .box{padding-top: 20px;
                }
@@ -45,7 +48,8 @@
                 }
             
             .blue{background-color: rgb(108, 157, 247);
-                padding: 10px;}
+                padding: 10px;
+            padding-right: 0;}
             .white{ padding: 10px;}
             .first{display: inline;}
             .second{display: inline;
@@ -56,16 +60,20 @@
 /*ADD footer*/
                 .grey{color: grey;
                 padding-top: 10px;
-                margin-bottom: 10px;}
+                margin-bottom: 10px;
+                margin-left: 10px;}
              
             .graph{background-image: url(img/graph.jpg);
                      height: 200px;
                      width: 200px;
-                    display: block;}
+                    display: block;
+                    margin-left: 10px;}
                     .monitor{ background-image: url(img/monitor.jpg);
                         height: 200px;
-                        width: 200px;   
+                        width: 200px; 
+                        margin-left: 10px;  
                      display: inline-block;
                      margin-bottom: 10px;}
                      .foot{color: white;
                     }
+                  

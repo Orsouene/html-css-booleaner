@@ -11,7 +11,9 @@
          padding-top: 50px;
           padding-left: 10px;}
   /*ADD main*/
-        main{margin-left: 10px;}          
+/*ADD SECTION1*/    
+  main{margin-left: 10px;
+      }          
         
         .credit{color: rgb(179, 177, 177);}
   
@@ -21,11 +23,11 @@
         font-weight: 500px;
         font-style: bold;
         padding-top: 20px;} 
-       .
+       
         .tim {height: 300px;}
        
         .small{font-size: small;}
-
+/*ADD SECTION2*/
         .Lorem{background-color: yellow;
          }
         
@@ -34,7 +36,7 @@
 
         .list{ padding-top: 20px;
             }
-      
+ /*ADD SECTION3*/
         .box{padding-top: 20px;
                }
             
@@ -49,4 +51,21 @@
             .second{display: inline;
                 margin-left: 25%;}
             .last {display: inline;
-                margin-left: 25%; }
+                margin-left: 25%;
+            }
+/*ADD footer*/
+                .grey{color: grey;
+                padding-top: 10px;
+                margin-bottom: 10px;}
+             
+            .graph{background-image: url(img/graph.jpg);
+                     height: 200px;
+                     width: 200px;
+                    display: block;}
+                    .monitor{ background-image: url(img/monitor.jpg);
+                        height: 200px;
+                        width: 200px;   
+                     display: inline-block;
+                     margin-bottom: 10px;}
+                     .foot{color: white;
+                    }
